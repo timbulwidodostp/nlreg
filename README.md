@@ -1,6 +1,8 @@
 # nlreg
 Fit a Nonlinear Heteroscedastic Model via Maximum Likelihood Use nlreg With (In) R Software
 
+https://www.youtube.com/watch?v=eW7TcmX7kpc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
